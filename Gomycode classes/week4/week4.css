@@ -1,0 +1,16 @@
+a{
+    color: red;
+    background-color: chartreuse;
+    border: 20px;
+    border-radius: 50px;
+  width: 50%;
+    
+}
+nav > a{
+    width:200px;
+    height: 200px;
+    
+}
+a:hover{
+    background-color: brown;
+}
