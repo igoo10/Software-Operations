@@ -1,0 +1,8 @@
+@mixin change-background-color(){
+    background-color: lightgoldenrodyellow;
+}
+
+@mixin change-font-family(){
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+}
