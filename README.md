@@ -6,3 +6,9 @@
 ![CSS Project Screenshot1(124)](https://github.com/igoo10/Software-Operations/assets/98024982/86a532c2-eced-4e2c-b38d-439a7e135189)
 ![CSS Screenshot2 (125)](https://github.com/igoo10/Software-Operations/assets/98024982/90fb426f-e109-4cb9-b7a5-83e6c4936f3b)
 
+
+![Screenshot (138)](https://github.com/user-attachments/assets/efb02644-bc88-42a0-8ef7-afb2e9a1f0c2)
+![Screenshot (139)](https://github.com/user-attachments/assets/1d063716-c1f2-4c07-b7d0-10cc6988da3d)
+![Screenshot (140)](https://github.com/user-attachments/assets/0651999e-c245-4c9f-892b-97d20ffcf4a7)
+
+
